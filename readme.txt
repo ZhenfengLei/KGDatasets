@@ -1,0 +1,1 @@
+There¡®re experimental data sets over knowledge graph which are all well-known and popular and even comprehensive. We now sort out 6 data sets(WN18, WN18RR,FB15k,FB15k-237,YAGA3-10,Countries), and we'll show many more other data if there 's necessary!
